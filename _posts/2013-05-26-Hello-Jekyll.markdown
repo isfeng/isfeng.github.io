@@ -12,8 +12,9 @@ tags: jekyll
 試安裝[Jekyll]，YA！又是中文的問題，英文不好有錯嗎。
 
 簡單解決，谷歌一下，再弄得很像是自己的研究~
-{% highlight dos %}
- set LAN=zh_TW.UTF-8
+
+{% highlight bat %}
+set LAN=zh_TW.UTF-8
  set LC_ALL=zh_TW.UTF-8
 {% endhighlight  %}
 
