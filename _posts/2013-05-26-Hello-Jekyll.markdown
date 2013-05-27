@@ -15,7 +15,7 @@ tags: jekyll
 
 {% highlight bat %}
 set LAN=zh_TW.UTF-8
- set LC_ALL=zh_TW.UTF-8
+set LC_ALL=zh_TW.UTF-8
 {% endhighlight  %}
 
 ---
