@@ -3,6 +3,7 @@ layout: post
 title:  "Hello Jekyll"
 categories: 
 tags: jekyll
+published: false
 ---
 
 試安裝[JeykllBootstrap]，成功，但是目前功力改不動，失敗。
